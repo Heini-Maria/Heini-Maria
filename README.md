@@ -16,9 +16,12 @@ REACT /JS /HTML /CSS
 
 * 🔎 currently deepening my knowledge in algorithms and asymptotic notations
 * 🧼 improving my code for easier testing 
-<span><span>
-  
+
+## Stats:
+
 [![Heini-Maria's github stats](https://github-readme-stats.vercel.app/api?username=Heini-Maria&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=heini-maria&theme=light&background=000000)](https://git.io/streak-stats)
 
 
 
