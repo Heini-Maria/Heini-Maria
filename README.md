@@ -1,6 +1,6 @@
-# Hi there I'm Heini-Maria 👋
+# Hi there, I'm Heini-Maria 👋
 
-#### I am a frontend developer with a marketing backroung
+### I am a frontend developer with a marketing backroung
 
 I'm Finnish but based in Malta. I am fairly new in the coding but I'm super happy I followed my intuition and decided to start learning. I just love creating stuff seeing it work on the internet. 
 
