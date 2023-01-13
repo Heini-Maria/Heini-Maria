@@ -19,8 +19,6 @@ REACT /JS /HTML /CSS
 
 ## Stats:
 
-[![Heini-Maria's github stats](https://github-readme-stats.vercel.app/api?username=Heini-Maria&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
-
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=heini-maria&theme=light&background=FFFFFF)](https://git.io/streak-stats)
 
 
