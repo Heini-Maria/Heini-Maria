@@ -1,8 +1,8 @@
 # Hi there, I'm Heini-Maria 👋
 
-### I am a frontend developer with a marketing backroung
+### I am a frontend developer with a marketing backround
 
-I'm Finnish but based in Malta. I am fairly new in the coding but I'm super happy I followed my intuition and decided to start learning. I just love creating stuff seeing it work on the internet. 
+I'm Finnish but based in Malta. I am fairly new in coding but I'm super happy I followed my intuition and decided to start learning. I just love creating stuff and seeing it work on the internet.
 
 I'm constantly trying to grow and learn new skills. <br />
 
@@ -12,9 +12,9 @@ I'm constantly trying to grow and learn new skills. <br />
 
 REACT /REACT NATIVE /REDUX /JS /HTML /CSS
 
-## What I'm focuing on
+## What I'm focusing on
 
-* 🔎 currently deepening my knowledge in algorithms and asymptotic notations
+* 🔎 currently deepening my knowledge of algorithms and asymptotic notations
 * 🧼 improving my code for easier testing 
 
 ## Stats:
