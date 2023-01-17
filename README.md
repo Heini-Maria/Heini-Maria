@@ -10,7 +10,7 @@ I'm constantly trying to grow and learn new skills. <br />
 
 ## My skills:
 
-REACT /JS /HTML /CSS
+REACT /REACT NATIVE /REDUX /JS /HTML /CSS
 
 ## What I'm focuing on
 
