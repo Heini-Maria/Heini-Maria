@@ -19,7 +19,7 @@ REACT /REACT NATIVE /REDUX /JS /HTML /CSS
 
 ## Stats:
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=heini-maria&theme=default&background=FFFFFF)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=heini-maria&theme=buefy)](https://git.io/streak-stats)
 
 
 
