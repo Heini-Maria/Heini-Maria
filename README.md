@@ -19,7 +19,7 @@ REACT /REACT NATIVE /REDUX /JS /HTML /CSS
 
 ## Stats:
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=heini-maria&theme=buefy&hide_border=true&border_radius=4.7)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Heini-Maria&theme=buefy&hide_border=true&border_radius=4.7)](https://git.io/streak-stats)
 
 
 
