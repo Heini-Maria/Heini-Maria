@@ -14,6 +14,7 @@ REACT /REACT NATIVE /REDUX /JS /HTML /CSS
 
 ## What I'm focusing on
 
+* 📖 currently improving my skills and getting team coding experience in Front-end Industry Training  
 * 🔎 currently deepening my knowledge of algorithms and asymptotic notations
 * 🧼 improving my code for easier testing 
 
