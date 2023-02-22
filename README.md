@@ -15,8 +15,8 @@ REACT /REACT NATIVE /REDUX /JS /HTML /CSS
 ## What I'm focusing on
 
 * 📖 currently improving my skills and getting team coding experience in Front-end Industry Training  
-* 🔎 currently deepening my knowledge of algorithms and asymptotic notations
-* 🧼 improving my code for easier testing 
+* 🔎 Learning Typescript and intermediate React with Frontend Masters
+* 🚀 building a microblog with React and Express
 
 ## Stats:
 
