@@ -10,13 +10,13 @@ I'm constantly trying to grow and learn new skills. <br />
 
 ## My skills:
 
-REACT /REACT NATIVE /REDUX /JS /HTML /CSS
+REACT /REACT NATIVE /REDUX /JS /HTML /CSS /TYPESCRIPT /SQL
 
 ## What I'm focusing on
 
-* 📖 currently improving my skills and getting team coding experience in Front-end Industry Training  
-* 🔎 Learning Typescript and intermediate React with Frontend Masters
-* 🚀 building a microblog with React and Express
+* 📖 Currently working as a Design & Development intern
+* 🔎 Currently Learning software testing
+* 🚀 Looking forward to impliment the new testing skills on my personal projects
 
 ## Stats:
 
