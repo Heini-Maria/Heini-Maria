@@ -14,7 +14,7 @@ REACT /REACT NATIVE /REDUX /JS /HTML /CSS /TYPESCRIPT /SQL
 
 ## What I'm focusing on
 
-* 📖 Currently working as a Design & Development intern
+* 📖 Currently working as a frontend development intern
 * 🔎 Currently Learning software testing
 * 🚀 Looking forward to impliment the new testing skills on my personal projects
 
