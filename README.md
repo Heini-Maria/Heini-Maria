@@ -2,7 +2,7 @@
 
 ### I am a frontend developer with a marketing background
 
-I'm a Finn, based in Malta. I am still fresh in coding but I'm grateful that I dared to my intuition and decided to start learning. I love the process of creating stuff, figuring things out, overcoming obstacles and seeing the end result running live on the internet.
+I'm a Finn, based in Malta. I am still fresh in coding but I'm grateful that I dared to follow my intuition and decided to start learning. I love the process of creating stuff, figuring things out, overcoming obstacles and seeing the end result running live on the internet.
 
 I'm constantly trying to grow and learn new skills. <br />
 
